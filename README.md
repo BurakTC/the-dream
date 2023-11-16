@@ -15,7 +15,7 @@ A project that allows real-time visualization of exchange rates for all currenci
 - PHP
 - HTML
 - CSS
-- API: [ExchangeRatesAPI](https://www.exchangeratesapi.io/)
+- API: [ExchangeRatesAPI](https://exchangeratesapi.io/)
 
 ## Local Development
 
