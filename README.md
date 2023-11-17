@@ -19,7 +19,7 @@ A project that allows real-time visualization of exchange rates for all currenci
 
 ## Local Development
 
-1. Clone the project: `git clone https://github.com/your-username/your-project.git`
+1. Clone the project: `git clone https://github.com/your-username/your-project.git](https://github.com/BurakTC/the-dream.git`
 2. Install dependencies (if necessary): `npm install`
 3. Configure environment variables (if necessary).
 4. Copy the project folder to Laragon's `www` directory.
