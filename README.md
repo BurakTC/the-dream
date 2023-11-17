@@ -8,7 +8,7 @@ A project that allows real-time visualization of exchange rates for all currenci
 
 ![Live Site](./screens/Document.png)
 
-[Visit the site (not deployed yet)](link-to-your-site)
+[Visit the site (Visit the site )]([link-to-your-site](http://burak-becode.free.nf/))
 
 ## Technologies Used
 
