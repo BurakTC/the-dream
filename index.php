@@ -1,4 +1,8 @@
 <?php
+    $amount = "";  // Initialisation avec une valeur par défaut
+    $fromCurrency = "";
+    $toCurrency = "";
+    $conversionResult = "";
     $accessKey = '02b78fb6ba63bbc2be66de4afd0b814c';
     $endpoint = 'latest';
     $url = "http://api.exchangeratesapi.io/v1/{$endpoint}?access_key={$accessKey}";
@@ -63,10 +67,11 @@
                 }
                 ?>
             </select><br>
-            <?php
-                echo "<h3>Résultat de la conversion :</h3><p> $amount $fromCurrency équivaut à $conversionResult $toCurrency</p>";
-            ?>
 
+            <?php
+                echo "<h3>Résultat de la conversion :</h3>";
+                echo "<p>$amount $fromCurrency équivaut à $conversionResult $toCurrency</p>";
+            ?>
             <input type="submit" name="convert" value="Convertir">
         </form>
     </section>
